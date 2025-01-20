@@ -27,4 +27,5 @@ div{
     border: solid darkgoldenrod 5px;
     border-radius: 10px;
     padding: 50 5;
+    margin: 0 auto;
 }
